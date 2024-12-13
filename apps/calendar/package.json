@@ -58,7 +58,7 @@
     "immer": "^9.0.15",
     "isomorphic-dompurify": "^0.20.0",
     "preact": "^10.10.0",
-    "preact-render-to-string": "^5.2.1",
+    "preact-render-to-string": "^6.5.12",
     "tui-date-picker": "^4.0.1",
     "tui-time-picker": "^2.0.1"
   },
